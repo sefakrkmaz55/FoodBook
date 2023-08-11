@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Yemek Tarifi</string>
+    <string name="home_text1">Ne Yemek İstersiniz ?</string>
+    <string name="home_text2">Aşırı Popüler Öğeler</string>
+    <string name="home_text3">Kategoriler</string>
+    <string name="meal_title">Yemek Adı</string>
+    <string name="meal_text1">Kategori:Biftek</string>
+    <string name="meal_text2">Bölge:Türkiye</string>
+    <string name="meal_text3"> - Talimatlar :</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
