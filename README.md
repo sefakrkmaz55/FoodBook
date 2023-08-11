@@ -1,4 +1,4 @@
-# Uygulama Hakkında (About FoodBook)
+# About FoodBook (Uygulama Hakkında)
 In this application, it is aimed to reach the recipes and preparation videos of the dishes in the api on the "https://www.themealdb.com/"(Bu uygulamada "https://www.themealdb.com/" sitesindeki api'deki yemeklerin tariflerine ve hazırlanış videolarına ulaşmak amaçlanmaktadır.)
 # Images (Görseller)
 <img width="418" alt="Ekran Resmi 2023-08-11 19 40 21" src="https://github.com/sefakrkmaz55/FoodBook/assets/47367852/753ed597-66c7-419b-a78f-2a4368be54d9">
